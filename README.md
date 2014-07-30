@@ -86,3 +86,7 @@ host $ vagrant destroy # DANGER: all is gone
 ```
 
 Please check the [Vagrant documentation](http://vagrantup.com/v1/docs/index.html) for more information on Vagrant.
+
+## TODO
+
+- Upgrade code to Vagrant v2.0
